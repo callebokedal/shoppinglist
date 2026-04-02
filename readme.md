@@ -8,7 +8,7 @@ The goal is to help out how to remember things to buy, and where they are locate
 
 ## Demo
 
-TODO
+[https://callebokedal.github.io/shoppinglist/]
 
 ## Use cases
 
