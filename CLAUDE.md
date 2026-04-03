@@ -6,7 +6,9 @@
 
 ## UI
 - The app should be for mobile use first, but also working on other dimensions - like desktop.
-- Tailwind should have support for this.
+  - Prioritize iPhone mobile format, in portrait mode most.
+  - Tailwind should have support for this.
+- Make sure each web app has a favicon and other common icons.
 
 ## Technical Stack
 - **React 18** with **JavaScript** (no TypeScript)

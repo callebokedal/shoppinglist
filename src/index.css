@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+/* Prevent iOS Safari from auto-zooming on input focus (triggered when font-size < 16px) */
+input, textarea, select {
+  font-size: 16px !important;
+}
+
+/* Safe area padding for iPhone home indicator */
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom);
+}
